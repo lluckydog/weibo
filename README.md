@@ -52,3 +52,13 @@
 - 采集到500个大V及其关注者列表（user 表）：1分
 - 采集到这些关注者最近1小时内的全部微博（weibo 表）：2分
 - 编写或利用现有的爬虫框架进行多线程采集和持续更新：3分
+
+
+
+## 内容
+
+[代码]：(https://github.com/lluckydog/weibo/tree/master/code)
+
+[数据]：（https://github.com/lluckydog/weibo/tree/master/data）
+
+[说明]：（https://github.com/lluckydog/weibo/tree/master/report）
